@@ -18,12 +18,14 @@ class NetworkUtil{
 
     companion object {
 
+
         var NET_CNNT_BAIDU_OK = 1 // NetworkAvailable
         var NET_CNNT_BAIDU_TIMEOUT = 2 // no NetworkAvailable
         var NET_NOT_PREPARE = 3 // Net no ready
         var NET_ERROR = 4 //net error
         private val TIMEOUT = 3000 // TIMEOUT
         /**
+         *
          * check NetworkAvailable
          *
          * @param context

@@ -293,6 +293,8 @@ class VideoDetailActivity : BaseActivity(), VideoDetailContract.View {
      */
     override fun onBackPressed() {
         orientationUtils?.backToProtVideo()
+
+
         if (StandardGSYVideoPlayer.backFromWindowFull(this))
             return
         //释放所有

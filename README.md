@@ -1,21 +1,6 @@
 # KotlinMvp
 
-[![](https://jitpack.io/v/git-xuhao/KotlinMvp.svg)](https://jitpack.io/#git-xuhao/KotlinMvp)
-[![Build Status](https://travis-ci.org/git-xuhao/KotlinMvp.svg?branch=master)](https://travis-ci.org/git-xuhao/KotlinMvp)
-[![CircleCI](https://circleci.com/gh/git-xuhao/KotlinMvp/tree/master.svg?style=svg)](https://circleci.com/gh/git-xuhao/KotlinMvp/tree/master)
-[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ee634e0cc3042f8a98e33d6135f39a6)](https://www.codacy.com/app/git-xuhao/KotlinMvp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=git-xuhao/KotlinMvp&amp;utm_campaign=Badge_Grade)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![](https://img.shields.io/badge/Author-xuhao-blue.svg)](http://xuhaoblog.com)
-[![](https://img.shields.io/badge/QQ-504105930-orange.svg)](http://xuhaoblog.com)
-
-**[English Document](https://github.com/git-xuhao/KotlinMvp/blob/master/README-en.md)**
-
 ![这里写图片描述](http://oyp2zrwnm.bkt.clouddn.com/ic_launcher.png)
-
-GitHub地址：[https://github.com/git-xuhao/KotlinMvp](https://github.com/git-xuhao/KotlinMvp)
-
-（开源不易，如果喜欢的话希望给个 Star 或者 Fork，谢谢！）
 
 《KotlinMvp》 是仿着“开眼Eyepetizer”之前版本并加上自己的想法，开发的一款的短视频小应用，每日为你推荐精选视频，让你大开眼界。本项目采用 Kotlin 语言编写，结合 MVP+RxJava2+Retrofit2+Glide等的架构设计，学习 Kotlin 利用空余时间开发的一款小项目，代码结构清晰有详细注释，如有任何疑问和建议请提 Issue或联系[![](https://img.shields.io/badge/Gmail:-igeekho@gmail.com-blue.svg)]()
 
@@ -39,16 +24,6 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 - gif
 
    <img src="/screenshot/kotlin-mvp-1.gif" style="width: 30%;">
-
-
-## 下载体验
-
-点击[![](https://img.shields.io/badge/Download-apk-green.svg)](https://fir.im/kotlinmvp) 或者扫描下方二维码
-
-**（下方二维码，每日上限100次，如达到上限，还是 clone 源码吧！✧(≖ ◡ ≖✿)）**
-
-<img src="http://oyp2zrwnm.bkt.clouddn.com/QR-code-kotlin-mvp.png" width = "250" height = "250" alt="图片名称" align=center />
-
 
 
 ## 技术要点
@@ -77,8 +52,6 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 
 ## 更新日志
 
-**[最新记录请点击查看](https://github.com/git-xuhao/KotlinMvp/releases)**
-
 **v1.1**
 
  - 去除无用代码，添加观看记录功能。
@@ -86,13 +59,6 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 **v1.0**
 
  - 初始化版本，主要功能已经完成。
-
-## 关于我
-
- - Email: igeekho@gmail.com
- - Home: [https://xuhaoblog.com](https://xuhaoblog.com)
- - CSDN:[http://blog.csdn.net/u011974987](http://blog.csdn.net/u011974987)
- - 简书: [http://www.jianshu.com/u/25bc3e1e7595](http://www.jianshu.com/u/25bc3e1e7595)
 
 ## Thanks
 
@@ -105,14 +71,6 @@ Kotlin 团队为 Android 开发提供了一套超越标准语言功能的工具�
 ## LICENSE
 
 ```
-Copyright 2017 Xiho
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

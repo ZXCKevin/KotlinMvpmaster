@@ -81,6 +81,7 @@ import com.hazz.kotlinmvp.showToast
      */
     abstract fun lazyLoad()
 
+
     override fun onDestroy() {
         super.onDestroy()
         MyApplication.getRefWatcher(activity)?.watch(activity)

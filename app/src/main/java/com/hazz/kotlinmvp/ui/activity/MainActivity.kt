@@ -24,7 +24,7 @@ import java.util.*
 class MainActivity : BaseActivity() {
 
 
-    private val mTitles = arrayOf("每日精选", "发现", "热门", "我的")
+    private val mTitles = arrayOf("每日精选", "发现", "热门", "周小陈")
 
     // 未被选中的图标
     private val mIconUnSelectIds = intArrayOf(R.mipmap.ic_home_normal, R.mipmap.ic_discovery_normal, R.mipmap.ic_hot_normal, R.mipmap.ic_mine_normal)
@@ -37,6 +37,7 @@ class MainActivity : BaseActivity() {
     private var mDiscoveryFragment: DiscoveryFragment? = null
     private var mHotFragment: HotFragment? = null
     private var mMineFragment: MineFragment? = null
+    private var mZhouXiaoChen : MineFragment ? = null
 
     //默认为0
     private var mIndex = 0
@@ -84,6 +85,10 @@ class MainActivity : BaseActivity() {
         val transaction = supportFragmentManager.beginTransaction()
         hideFragments(transaction)
         when (position) {
+            -1
+                ->mZhouXiaoChen?.let {
+
+            }
             0 // 首页
             -> mHomeFragment?.let {
                 transaction.show(it)

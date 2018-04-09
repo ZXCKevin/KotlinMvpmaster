@@ -23,6 +23,7 @@ public class MultipleStatusView extends RelativeLayout {
             new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.MATCH_PARENT,
                                             RelativeLayout.LayoutParams.MATCH_PARENT);
 
+
     public static final int STATUS_CONTENT    = 0x00;
     public static final int STATUS_LOADING    = 0x01;
     public static final int STATUS_EMPTY      = 0x02;
