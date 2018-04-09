@@ -14,7 +14,7 @@ import com.hazz.kotlinmvp.utils.StatusBarUtil
 import kotlinx.android.synthetic.main.fragment_hot.*
 
 /**
- * Created by xuhao on 2017/11/9.
+ * Created by zxc on 2017/11/9.
  * 热门
  */
 class HotFragment : BaseFragment(), HotTabContract.View {

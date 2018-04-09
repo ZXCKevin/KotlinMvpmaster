@@ -12,7 +12,7 @@ import com.bumptech.glide.module.AppGlideModule
 import java.io.InputStream
 
 /**
- * Created by xuhao on 2017/12/1.
+ * Created by zxc on 2017/12/1.
  * desc:
  */
 @GlideModule

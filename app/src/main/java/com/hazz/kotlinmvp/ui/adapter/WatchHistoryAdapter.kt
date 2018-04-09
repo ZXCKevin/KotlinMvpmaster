@@ -20,7 +20,7 @@ import com.hazz.kotlinmvp.view.recyclerview.ViewHolder
 import com.hazz.kotlinmvp.view.recyclerview.adapter.CommonAdapter
 
 /**
- * Created by xuhao on 2017/12/11.
+ * Created by zxc on 2017/12/11.
  * desc:
  */
 class WatchHistoryAdapter(context: Context, dataList: ArrayList<HomeBean.Issue.Item>, layoutId: Int)

@@ -11,7 +11,7 @@ import com.hazz.kotlinmvp.MyApplication
 
 
 /**
- * @author xuhao
+ * @author zxc
  * created: 2017/10/25
  * desc:BaseActivity基类
  */

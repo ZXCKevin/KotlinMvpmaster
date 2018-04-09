@@ -17,7 +17,7 @@ import com.hazz.kotlinmvp.utils.StatusBarUtil
 import kotlinx.android.synthetic.main.activity_category_detail.*
 
 /**
- * Created by xuhao on 2017/11/30.
+ * Created by zxc on 2017/11/30.
  * desc: 分类详情
  */
 class CategoryDetailActivity : BaseActivity(), CategoryDetailContract.View {

@@ -13,7 +13,7 @@ import android.view.ViewAnimationUtils
 import android.view.animation.AccelerateDecelerateInterpolator
 
 /**
- * Created by xuhao on 2017/12/1.
+ * Created by zxc on 2017/12/1.
  * desc: View 动画工具类
  */
 

@@ -11,7 +11,7 @@ import com.hazz.kotlinmvp.MyApplication
 import com.hazz.kotlinmvp.showToast
 
 /**
- * @author Xuhao
+ * @author zxc
  * created: 2017/10/25
  * desc:
  */

@@ -16,7 +16,7 @@ import kotlinx.android.synthetic.main.activity_profile_homepage.*
 import java.util.*
 
 /**
- * Created by xuhao on 2017/12/6.
+ * Created by zxc on 2017/12/6.
  * desc: 个人主页
  */
 
@@ -73,7 +73,7 @@ class ProfileHomePageActivity : BaseActivity() {
         toolbar.setNavigationOnClickListener { finish() }
 
 
-        refreshLayout.setOnRefreshListener {  mWebView.loadUrl("https://xuhaoblog.com/KotlinMvp") }
+        refreshLayout.setOnRefreshListener {  mWebView.loadUrl("https://github.com/ZXCKevin/KotlinMvpmaster") }
         refreshLayout.autoRefresh()
 
         mWebView.settings.javaScriptEnabled = true

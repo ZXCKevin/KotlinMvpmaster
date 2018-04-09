@@ -7,7 +7,7 @@ import android.content.pm.PackageManager
 import java.security.MessageDigest
 
 /**
- * Created by xuhao on 2017/12/6.
+ * Created by zxc on 2017/12/6.
  * desc: APP 相关的工具类
  */
 

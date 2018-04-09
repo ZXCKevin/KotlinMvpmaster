@@ -10,7 +10,7 @@ import com.hazz.kotlinmvp.view.recyclerview.MultipleType
 import com.hazz.kotlinmvp.view.recyclerview.ViewHolder
 
 /**
- * Created by xuhao on 2017/11/22.
+ * Created by zxc on 2017/11/22.
  * desc: 通用的 Adapter
  */
 

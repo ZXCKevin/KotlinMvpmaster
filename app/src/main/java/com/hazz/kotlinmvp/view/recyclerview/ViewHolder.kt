@@ -10,7 +10,7 @@ import android.widget.TextView
 
 @Suppress("UNCHECKED_CAST")
 /**
- * Created by xuhao on 2017/11/22.
+ * Created by zxc on 2017/11/22.
  * desc:
  */
 

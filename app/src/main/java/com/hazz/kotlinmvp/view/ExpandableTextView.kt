@@ -19,7 +19,7 @@ import com.hazz.kotlinmvp.R
 
 /**
  * 可折叠，展开的TextView
- * Created by xuhao on 2017/11/27
+ * Created by zxc on 2017/11/27
  */
 class ExpandableTextView : LinearLayout, View.OnClickListener {
 

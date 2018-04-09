@@ -10,7 +10,7 @@ import com.bumptech.glide.request.RequestOptions
 import java.net.URL
 
 /**
- * Created by xuhao on 2017/11/14.
+ * Created by zxc on 2017/11/14.
  */
 
 fun Fragment.showToast(content: String): Toast {
